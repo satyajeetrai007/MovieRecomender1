@@ -9,11 +9,11 @@ Scalable and Efficient: The recommender system can handle a large number of movi
 Interactive Interface: An easy-to-use interface where users can input their favorite movies and receive recommendations.
 
 ## Technologies Used
-Python: The main programming language used.
-Pandas: For data manipulation and analysis.
-Scikit-Learn: For implementing the recommendation algorithm.
-NLTK: For natural language processing tasks.
-Streamlit: For creating a web interface (optional).
+### Python: The main programming language used.
+### Pandas: For data manipulation and analysis.
+### Scikit-Learn: For implementing the recommendation algorithm.
+### NLTK: For natural language processing tasks.
+### Streamlit: For creating a web interface (optional).
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions that improve the system or add new features.
 
