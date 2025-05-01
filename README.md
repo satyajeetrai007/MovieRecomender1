@@ -18,7 +18,7 @@ Interactive Interface: An easy-to-use interface where users can input their favo
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions that improve the system or add new features.
 
 ## Link :
-Check the App https://whalyzer-multiformat.streamlit.app/
+Check the App https://book-recommender-sys.streamlit.app/
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
